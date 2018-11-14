@@ -98,13 +98,13 @@
         <profile>
             <id>test</id>
             <properties>
-                <org>Administrator</org>  <!-- default org, replace with dafault org to avoid passing parameter e.g. -Dorg testmyapi -->
-                <options>Administrator</options>  <!-- default org, replace with dafault org to avoid passing parameter e.g. -Dorg testmyapi -->
+                <org>njbharathkumar-eval</org>  <!-- default org, replace with dafault org to avoid passing parameter e.g. -Dorg testmyapi -->
+                <options>njbharathkumar-eval</options>  <!-- default org, replace with dafault org to avoid passing parameter e.g. -Dorg testmyapi -->
                 <apigee.profile>test</apigee.profile>
                 <apigee.env>test</apigee.env>
                 <apigee.hosturl>https://apigee.com/edge</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>${Administrator}</apigee.org>
+                <apigee.org>${njbharathkumar-eval}</apigee.org>
                 <apigee.username>${njbharathkumar@gmail.com}</apigee.username>
                 <apigee.password>${Hello@123}</apigee.password>
                 <apigee.options>${options}</apigee.options>
@@ -115,13 +115,13 @@
         <profile>
             <id>prod</id>
             <properties>
-                <org>Administrator</org>  <!-- default org, replace with dafault org to avoid passing parameter e.g. -Dorg testmyapi -->
-                <options>Administrator</options>  <!-- default org, replace with dafault org to avoid passing parameter e.g. -Dorg testmyapi -->                
+                <org>njbharathkumar-eval</org>  <!-- default org, replace with dafault org to avoid passing parameter e.g. -Dorg testmyapi -->
+                <options>njbharathkumar-eval</options>  <!-- default org, replace with dafault org to avoid passing parameter e.g. -Dorg testmyapi -->                
                 <apigee.profile>prod</apigee.profile>
                 <apigee.env>prod</apigee.env>
                 <apigee.hosturl>https://apigee.com/edge</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>${Administrator}</apigee.org>
+                <apigee.org>${njbharathkumar-eval}</apigee.org>
                 <apigee.username>${njbharathkumar@gmail.com}</apigee.username>
                 <apigee.password>${Hello@123}</apigee.password>
                 <apigee.options>${options}</apigee.options>
