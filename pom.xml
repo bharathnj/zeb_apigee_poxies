@@ -104,10 +104,10 @@
                 <apigee.env>test</apigee.env>
                 <apigee.hosturl>https://apigee.com/edge</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>${njbharathkumar-eval}</apigee.org>
-                <apigee.username>${njbharathkumar@gmail.com}</apigee.username>
-                <apigee.password>${Hello@123}</apigee.password>
-                <apigee.options>${options}</apigee.options>
+                <apigee.org>njbharathkumar-eval</apigee.org>
+                <apigee.username>njbharathkumar@gmail.com</apigee.username>
+                <apigee.password>Hello@123</apigee.password>
+                <!--<apigee.options>${options}</apigee.options>-->
                 <!--apigee.override.delay>10</apigee.override.delay-->
                 <!--apigee.delay>1000</apigee.delay-->                                  
             </properties>
@@ -121,10 +121,10 @@
                 <apigee.env>prod</apigee.env>
                 <apigee.hosturl>https://apigee.com/edge</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>${njbharathkumar-eval}</apigee.org>
-                <apigee.username>${njbharathkumar@gmail.com}</apigee.username>
-                <apigee.password>${Hello@123}</apigee.password>
-                <apigee.options>${options}</apigee.options>
+                <apigee.org>njbharathkumar-eval</apigee.org>
+                <apigee.username>njbharathkumar@gmail.com</apigee.username>
+                <apigee.password>Hello@123</apigee.password>
+                <!--<apigee.options>${options}</apigee.options>-->
                 <!--apigee.override.delay>10</apigee.override.delay-->
                 <!--apigee.delay>1000</apigee.delay-->                       
             </properties>
